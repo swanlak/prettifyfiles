@@ -3,7 +3,7 @@
   background: #1d1f21;
   font-family: Menlo, "Bitstream Vera Sans Mono", "DejaVu Sans Mono", Monaco, Consolas, monospace;
   border-radius: 4px; /* edit */
-  border: 0 !important;
+  border: 1px !important;
 }
 
 .pln {
